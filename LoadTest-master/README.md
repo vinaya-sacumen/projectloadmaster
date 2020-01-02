@@ -6,3 +6,4 @@ java -jar loadtest<version>.jar
 mvn install
 
 
+2.Installation of intellij idea.
