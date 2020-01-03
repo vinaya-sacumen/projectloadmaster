@@ -20,7 +20,7 @@ Before you continue,ensure you meet the following environment:
 3.you have installed maven tool.
 4.you are using linux or mac os machine,windows is not currently supported.
 5.you have basic understanding of Springboot.
-
+/home/vinaya/Desktop/loadtest project/README.md.odt
 
 4.How to install the things
 
@@ -55,7 +55,7 @@ sudo mv idea-IC-183.4886.37 idea
 
 
 
-
+/home/vinaya/Desktop/loadtest project/README.md.odt
 
 7.In the next dialog, you will be asked to select a UI theme. Depending on your preference, select the theme and click Next.
 
