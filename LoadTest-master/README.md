@@ -53,6 +53,8 @@ sudo mv idea-IC-183.4886.37 idea
  /opt/idea/bin/idea.sh
 6.In the appeared dialog to import existing settings, choose "Do not import settings" if you want a fresh installation. If you already had an IntelliJ IDEA, you can import the previous settings by selecting the first option.
 
+![Screenshot from 2020-01-03 18-36-09](https://user-images.githubusercontent.com/57664628/71724935-1b67ab00-2e58-11ea-9139-425e9f4e5ddb.png)
+
 
 
 
