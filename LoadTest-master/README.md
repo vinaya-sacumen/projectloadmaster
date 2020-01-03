@@ -63,6 +63,7 @@ sudo mv idea-IC-183.4886.37 idea
 
 
 
+![Screenshot from 2020-01-03 18-50-02](https://user-images.githubusercontent.com/57664628/71725791-2839ce00-2e5b-11ea-9238-86a0e8949c2d.png)
 
 
 
