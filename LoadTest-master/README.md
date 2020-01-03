@@ -188,13 +188,17 @@ If it works, hooray! you have successfully installed the latest Apache Maven on 
 
 
 6.built with.
+       
        Maven-Dependency management.
 
 7.Versioning
+
 For the versions available, see the tags on the repository.
 
 8.Authors
+
 See also the list of contributors who participated in this project.
 
 9.Licence
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
