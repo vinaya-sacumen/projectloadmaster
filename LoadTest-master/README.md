@@ -128,6 +128,7 @@ Once you have clicked the Start Using IntelliJ IDEA button, you may be asked to 
 
 
 
+![Screenshot from 2020-01-03 18-56-28](https://user-images.githubusercontent.com/57664628/71726606-a008f800-2e5d-11ea-8c3b-20ef5dfc12b7.png)
 
 
 
