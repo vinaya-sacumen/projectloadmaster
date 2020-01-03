@@ -22,6 +22,7 @@ Before you continue,ensure you meet the following environment:
 5.you have basic understanding of Springboot.
 /home/vinaya/Desktop/loadtest project/README.md.odt
 
+![Screenshot from 2020-01-03 18-53-21](https://user-images.githubusercontent.com/57664628/71726032-d8a7d200-2e5b-11ea-8b5b-11b65ac6af78.png)
 4.How to install the things
 
 1.Installation of jdk latest version.
