@@ -55,7 +55,7 @@ sudo mv idea-IC-183.4886.37 idea
 
 
 
-/home/vinaya/Desktop/loadtest project/README.md.odt
+
 
 7.In the next dialog, you will be asked to select a UI theme. Depending on your preference, select the theme and click Next.
 
